@@ -1,16 +1,4 @@
 # daangn
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Recording - iPhone 14 Pro - 2023-07-09 at 11 50 38](https://github.com/LeeJaeheee/PracticeFlutter/assets/74818845/93bca35f-7632-4550-bdb2-c5d40bfd5e1c)
